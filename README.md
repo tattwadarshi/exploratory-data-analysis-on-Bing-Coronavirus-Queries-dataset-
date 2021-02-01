@@ -4,6 +4,8 @@ In-depth exploratory data analysis (EDA)  on Bing Coronavirus Queries dataset in
 
 In this project I took an initiative to use my creativity an imagination to get some deeper insights from the Coronavirus Queries Dataset using Python and associated libraries.
 
+Dataset : https://github.com/microsoft/BingCoronavirusQuerySet
+
 The following things have been explored: 
 
 * Fetching Dataset
